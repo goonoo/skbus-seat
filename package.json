@@ -1,0 +1,15 @@
+{
+  "name": "skhappyexpress-seat",
+  "version": "0.0.1",
+  "description": "check sk shuttle bus seat",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tenshi",
+  "license": "ISC",
+  "dependencies": {
+    "cli": "^0.6.3",
+    "request": "^2.40.0"
+  }
+}
